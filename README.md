@@ -3,7 +3,7 @@ Controls:\
 W / Arrow Up (Forward)\
 S / Arrow Down (Backward)\
 A / Arrow Left (Left)\
-D / Arrow Right (Right)\ 
+D / Arrow Right (Right)\
 Hold **Left ALT** to enable cursor
 
 The game creates ***40 Gems*** at random location on the game the player need to find all ***40 Gems*** within **5 Minutes**.
