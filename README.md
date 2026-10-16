@@ -10,6 +10,6 @@ The game creates ***40 Gems*** at random location on the game the player need to
 
 ***Optimizations :***
 1. The game is capped at **60FPS** on every device.
-2. The game use **SRP (Scriptable Render Pipeline) batcher** to further improve game stability.
+2. The game use **SRP (Scriptable Render Pipeline) batcher** to further improve game stability and reduce draw calls.
 3. The game uses **IL2CPP - Release Build** method to increase runtime performance.
 4. It Uses **DX12** by default but it can fall back to **DX11** on older devices.
