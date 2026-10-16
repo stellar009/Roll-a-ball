@@ -1,5 +1,5 @@
 Time spent on developing: **7 Hours**
-\ \ 
+\ 
 Controls: \
 W / Arrow Up (Forward)\
 S / Arrow Down (Backward)\
