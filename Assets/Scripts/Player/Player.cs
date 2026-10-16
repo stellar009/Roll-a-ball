@@ -45,7 +45,7 @@ public class Player : MonoBehaviour
         if (input.sqrMagnitude > 1) input.Normalize();
 
         // Calculate the movement velocity
-        m_MovementVelocity = input * speed;
+        m_MovementVelocity = input * speed * Time.deltaTime;
 
         // Apply velocity while keeping the existing Y velocity (gravity)
         m_PlayerRB.linearVelocity = new Vector3(m_MovementVelocity.x, m_PlayerRB.linearVelocity.y, m_MovementVelocity.z);
